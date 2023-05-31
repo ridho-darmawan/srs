@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T10:12:38.924Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="A_I5XKJ0MFdXQiKgXmrI" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-31T10:15:29.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="PzWcdSdRY3eXRAX4EnRj" version="21.3.6" type="github" pages="2">
   <diagram name="USE CASE" id="biCqygMkWKWWEQv1H8-z">
-    <mxGraphModel dx="2000" dy="1772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2427" dy="1991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -348,6 +348,56 @@
         </mxCell>
         <mxCell id="7alEofTNLBSEtwBs15go-109" value="" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aLF-B14wMnvdbsnxp4yJ" name="Flowchard">
+    <mxGraphModel dx="1600" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JisXL0s8egiNmsx95D1q-1" value="Pasien" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="10" width="140" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JisXL0s8egiNmsx95D1q-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="JisXL0s8egiNmsx95D1q-1">
+          <mxGeometry x="25" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JisXL0s8egiNmsx95D1q-3" value="Petugas Pendaftaran" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="10" width="140" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JisXL0s8egiNmsx95D1q-4" value="Perawat Ruangan" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="10" width="140" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JisXL0s8egiNmsx95D1q-5" value="Dokter DPJP" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="10" width="140" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JisXL0s8egiNmsx95D1q-6" value="Ahli Gizi" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="10" width="140" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JisXL0s8egiNmsx95D1q-7" value="Perawat OK" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="10" width="140" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JisXL0s8egiNmsx95D1q-8" value="Dokter Operator" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="10" width="140" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JisXL0s8egiNmsx95D1q-9" value="Dokter Anastesi" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="10" width="140" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JisXL0s8egiNmsx95D1q-10" value="Dokter Penunjang" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="10" width="140" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JisXL0s8egiNmsx95D1q-11" value="Admin Penunjang" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="10" width="140" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JisXL0s8egiNmsx95D1q-12" value="Apoteker" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="10" width="140" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JisXL0s8egiNmsx95D1q-13" value="Kasir" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="10" width="140" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JisXL0s8egiNmsx95D1q-14" value="Coder" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="10" width="140" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-01T17:09:26.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="m3DtuTHMWx9E7U8iOlZx" version="21.3.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-01T17:12:45.546Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_a7Q80FlaG8hMNf7av6I" version="21.3.6" type="github" pages="2">
   <diagram name="USE CASE" id="biCqygMkWKWWEQv1H8-z">
     <mxGraphModel dx="1354" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,13 +245,13 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="aLF-B14wMnvdbsnxp4yJ" name="Flowchard">
-    <mxGraphModel dx="2587" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="aLF-B14wMnvdbsnxp4yJ" name="Activity Diagram">
+    <mxGraphModel dx="3027" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JisXL0s8egiNmsx95D1q-1" value="Pasien" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="10" width="220" height="680" as="geometry" />
+          <mxGeometry x="-100" y="10" width="220" height="830" as="geometry" />
         </mxCell>
         <mxCell id="JisXL0s8egiNmsx95D1q-2" value="Pasien Datang" style="ellipse;whiteSpace=wrap;html=1;" parent="JisXL0s8egiNmsx95D1q-1" vertex="1">
           <mxGeometry x="55" y="120" width="115" height="40" as="geometry" />
@@ -260,19 +260,19 @@
           <mxGeometry x="40" y="479" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JisXL0s8egiNmsx95D1q-3" value="Petugas Pendaftaran" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="10" width="160" height="680" as="geometry" />
+          <mxGeometry x="120" y="10" width="160" height="830" as="geometry" />
         </mxCell>
         <mxCell id="VaeMU97iwVEsDG1fpaX5-6" value="Registrasi Pasien" style="whiteSpace=wrap;html=1;" vertex="1" parent="JisXL0s8egiNmsx95D1q-3">
           <mxGeometry x="22" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JisXL0s8egiNmsx95D1q-4" value="Perawat Ruangan" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="10" width="170" height="680" as="geometry" />
+          <mxGeometry x="280" y="10" width="170" height="830" as="geometry" />
         </mxCell>
         <mxCell id="VZ2rvo7W4K8O-dVXEg4V-2" value="Pengisian Asuhan Keperawatan" style="whiteSpace=wrap;html=1;" vertex="1" parent="JisXL0s8egiNmsx95D1q-4">
           <mxGeometry x="25" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JisXL0s8egiNmsx95D1q-5" value="Dokter DPJP" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="10" width="190" height="680" as="geometry" />
+          <mxGeometry x="450" y="10" width="190" height="830" as="geometry" />
         </mxCell>
         <mxCell id="saBgDZyjsSCY0vROojg7-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JisXL0s8egiNmsx95D1q-5" source="VZ2rvo7W4K8O-dVXEg4V-4" target="saBgDZyjsSCY0vROojg7-35">
           <mxGeometry relative="1" as="geometry" />
@@ -320,31 +320,31 @@
           <mxGeometry x="57" y="210" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JisXL0s8egiNmsx95D1q-6" value="Admin Penunjang" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="10" width="180" height="680" as="geometry" />
+          <mxGeometry x="640" y="10" width="180" height="830" as="geometry" />
         </mxCell>
         <mxCell id="VZ2rvo7W4K8O-dVXEg4V-10" value="Konfirmasi Pemeriksaan Penunjang" style="whiteSpace=wrap;html=1;" vertex="1" parent="JisXL0s8egiNmsx95D1q-6">
           <mxGeometry x="30" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JisXL0s8egiNmsx95D1q-7" value="Dokter Pemeriksaan Penunjang" style="swimlane;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="820" y="10" width="170" height="680" as="geometry" />
+          <mxGeometry x="820" y="10" width="170" height="830" as="geometry" />
         </mxCell>
         <mxCell id="30PNQsHzKoTt6gArIhcN-1" value="Pengisian Hasil Pemeriksaan" style="whiteSpace=wrap;html=1;" vertex="1" parent="JisXL0s8egiNmsx95D1q-7">
           <mxGeometry x="25" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JisXL0s8egiNmsx95D1q-8" value="Dokter Operator" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="990" y="10" width="134" height="680" as="geometry" />
+          <mxGeometry x="990" y="10" width="134" height="830" as="geometry" />
         </mxCell>
         <mxCell id="JisXL0s8egiNmsx95D1q-9" value="Dokter Anastesi" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1124" y="10" width="136" height="680" as="geometry" />
+          <mxGeometry x="1124" y="10" width="136" height="830" as="geometry" />
         </mxCell>
         <mxCell id="JisXL0s8egiNmsx95D1q-10" value="Ahli Gizi" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="10" width="144" height="680" as="geometry" />
+          <mxGeometry x="1260" y="10" width="144" height="830" as="geometry" />
         </mxCell>
         <mxCell id="JisXL0s8egiNmsx95D1q-11" value="Perawat OK" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1404" y="10" width="140" height="680" as="geometry" />
+          <mxGeometry x="1404" y="10" width="140" height="830" as="geometry" />
         </mxCell>
         <mxCell id="JisXL0s8egiNmsx95D1q-12" value="Apoteker" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1544" y="10" width="206" height="680" as="geometry" />
+          <mxGeometry x="1544" y="10" width="206" height="830" as="geometry" />
         </mxCell>
         <mxCell id="30PNQsHzKoTt6gArIhcN-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JisXL0s8egiNmsx95D1q-12" source="30PNQsHzKoTt6gArIhcN-9" target="30PNQsHzKoTt6gArIhcN-11">
           <mxGeometry relative="1" as="geometry" />
@@ -356,13 +356,13 @@
           <mxGeometry x="39.5" y="304" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JisXL0s8egiNmsx95D1q-13" value="Kasir" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1750" y="10" width="190" height="680" as="geometry" />
+          <mxGeometry x="1750" y="10" width="190" height="830" as="geometry" />
         </mxCell>
         <mxCell id="saBgDZyjsSCY0vROojg7-22" value="Melakukan Pembayaran" style="whiteSpace=wrap;html=1;" vertex="1" parent="JisXL0s8egiNmsx95D1q-13">
           <mxGeometry x="35" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JisXL0s8egiNmsx95D1q-14" value="Coder" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1940" y="10" width="202" height="680" as="geometry" />
+          <mxGeometry x="1940" y="10" width="202" height="830" as="geometry" />
         </mxCell>
         <mxCell id="saBgDZyjsSCY0vROojg7-18" value="Pengkodingan Claim" style="whiteSpace=wrap;html=1;" vertex="1" parent="JisXL0s8egiNmsx95D1q-14">
           <mxGeometry x="52" y="110" width="120" height="60" as="geometry" />

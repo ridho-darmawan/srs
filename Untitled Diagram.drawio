@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T09:13:34.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="uAgkLrtVrzRiOKP3E_rf" version="21.3.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-06-02T09:26:55.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="BhK9L_AWWnMnriM1u-d6" version="21.3.6" type="github" pages="5">
   <diagram name="USE CASE" id="biCqygMkWKWWEQv1H8-z">
     <mxGraphModel dx="1354" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -246,7 +246,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aLF-B14wMnvdbsnxp4yJ" name="Activity Diagram Rawat Jalan">
-    <mxGraphModel dx="2294" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2783" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -442,7 +442,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Activity Diagram Rawat Jalan" id="g7QarTzeJ5rLHNizKjh_">
-    <mxGraphModel dx="1707" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1707" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="YZvYjRe9dTMN3ZqNy_tY-0" />
         <mxCell id="YZvYjRe9dTMN3ZqNy_tY-1" parent="YZvYjRe9dTMN3ZqNy_tY-0" />
@@ -638,7 +638,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="083PLJOw-D33ovQx94Sy" name="Flowchart Diagram">
-    <mxGraphModel dx="1257" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -745,7 +745,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Flowchart Rawat Inap" id="wB--_Cf9-rKhN33k7Y_o">
-    <mxGraphModel dx="880" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="T1NM47kdIfGSmsYwL3F7-0" />
         <mxCell id="T1NM47kdIfGSmsYwL3F7-1" parent="T1NM47kdIfGSmsYwL3F7-0" />
@@ -840,7 +840,7 @@
         <mxCell id="T1NM47kdIfGSmsYwL3F7-25" value="Konfirmasi Resep" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="T1NM47kdIfGSmsYwL3F7-1">
           <mxGeometry x="77" y="141" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T1NM47kdIfGSmsYwL3F7-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="T1NM47kdIfGSmsYwL3F7-1" source="T1NM47kdIfGSmsYwL3F7-27" target="T1NM47kdIfGSmsYwL3F7-29">
+        <mxCell id="TgsL1vB2JlvYgOiZsJ0T-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="T1NM47kdIfGSmsYwL3F7-1" source="T1NM47kdIfGSmsYwL3F7-27" target="vIMCaOd7YGXmS6CpmBVE-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T1NM47kdIfGSmsYwL3F7-27" value="Pemberian Resep Obat" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="T1NM47kdIfGSmsYwL3F7-1">
